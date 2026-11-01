@@ -43,7 +43,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "get-url-origin": "^1.0.1",
-    "minimatch": "^3.0.4",
+    "minimatch": "^11.0.1",
     "node-fetch": "^2.6.0",
     "p-memoize": "^3.1.0",
     "p-queue": "^6.2.0",
